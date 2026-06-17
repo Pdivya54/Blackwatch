@@ -32,3 +32,4 @@ I built Blackwatch using **LangGraph** to solve the "single-prompt" limitation. 
 - [ ] **Persistent Memory:** Migrating state to a persistent database for long-term intelligence tracking.
 - [ ] **Real-time Alerting:** Integrating webhooks to trigger reports automatically based on market volatility spikes.
 
+![Blackwatch System Architecture](architecture.png)
