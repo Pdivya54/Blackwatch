@@ -1,0 +1,8 @@
+langgraph
+langchain-openai
+pydantic-settings
+yfinance
+fastapi
+uvicorn
+streamlit
+requests
